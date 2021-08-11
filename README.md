@@ -1,4 +1,4 @@
-# Container Images Mirror 
+# Container Images Mirror
 
 Images are hosted on Github Container Registry [here](https://github.com/orgs/k8s-at-home/packages?ecosystem=container&visibility=public).
 
@@ -21,6 +21,7 @@ When upstream maintainers add support for an additional registry, the images her
 | [prometheus-qbittorrent-exporter](https://github.com/esanchezm/prometheus-qbittorrent-exporter) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/esanchezm/prometheus-qbittorrent-exporter/12)](https://github.com/esanchezm/prometheus-qbittorrent-exporter/issues/12)   |
 | [traefik](https://github.com/traefik/traefik)                                                | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/traefik/traefik/8149)](https://github.com/traefik/traefik/issues/8149)                                                 |
 | [unpoller](https://github.com/unpoller/unpoller)                                                | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/unpoller/unpoller/368)](https://github.com/unpoller/unpoller/issues/368)                                                 |
+| [botkube](https://github.com/infracloudio/botkube)                                                | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/infracloudio/botkube/446)](https://github.com/infracloudio/botkube/issues/446)                                    |
 
 ## Contributing
 
