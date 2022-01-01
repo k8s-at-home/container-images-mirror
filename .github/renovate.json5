@@ -49,6 +49,7 @@
       "requiredStatusChecks": null,
       "matchUpdateTypes": ["major", "minor", "patch"],
       "matchPackageNames": [
+        "docker.io/geoffh1977/chrony",
         "docker.io/codercom/code-server",
         "docker.io/jellyfin/jellyfin",
         "docker.io/nodered/node-red",
